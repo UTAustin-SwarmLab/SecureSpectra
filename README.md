@@ -46,7 +46,20 @@ Then run the ipynb files in experiments folder. After installing the datasets (M
 
 ## Citation
 For more technical details, please see:
-TBD: Submitted and Under Review
+```bibtex
+@inproceedings{baser24SecureSpectra,
+  author={Oguzhan Baser and Kaan Kale and Sandeep P. Chinchali},
+  title={{SecureSpectra: Safeguarding Digital Identity from Deep Fake Threats via Intelligent Signatures}},
+  year=2024,
+  booktitle={Proc. INTERSPEECH 2024},
+}
+```
+
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. You are free to use, share, and adapt the material for non-commercial purposes, provided that you give appropriate credit. For commercial use, please contact [oguzhanbaser@utexas.edu].
+
+For more details, see the [LICENSE](LICENSE) file.
 
 ## References for Benchmark Models
 
