@@ -47,11 +47,14 @@ Then run the ipynb files in experiments folder. After installing the datasets (M
 ## Citation
 For more technical details, please see:
 ```bibtex
-@inproceedings{baser24SecureSpectra,
-  author={Oguzhan Baser and Kaan Kale and Sandeep P. Chinchali},
-  title={{SecureSpectra: Safeguarding Digital Identity from Deep Fake Threats via Intelligent Signatures}},
-  year=2024,
-  booktitle={Proc. INTERSPEECH 2024},
+@inproceedings{baser24_interspeech,
+  title     = {SecureSpectra: Safeguarding Digital Identity from Deep Fake Threats via Intelligent Signatures},
+  author    = {Oguzhan Baser and Kaan Kale and Sandeep P. Chinchali},
+  year      = {2024},
+  booktitle = {Interspeech 2024},
+  pages     = {1115--1119},
+  doi       = {10.21437/Interspeech.2024-2349},
+  issn      = {2958-1796},
 }
 ```
 
